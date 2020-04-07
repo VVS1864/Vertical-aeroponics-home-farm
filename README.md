@@ -3,13 +3,13 @@ DIY aeropoincs vertical farm for growing any plants such as tomato, cucumber, st
 
 This project is simple aeroponics stillage with low pressure (2.5 atm and lower) and big nozzles (1 mm), which is supplied by windshield washer pump through 4/7 mm irrigation pipe. As mineral nutrient solition for plants is used differential solutions by USSR-hidroponic scientist Adam Aliev. Electronic control is carryed out by Arduino Nano and relay module. Lighting - IKEA RYED LED 5 W bulbs installed in 60W grow lamp. 
 
-![Overview schem](overview schem.png)
+![Overview schem](overview_schem.png)
 
 ![Solution flow schem](solutions_path/solution_path.png)
 
 ![Elecronic control schem](electronic_control/el_schem.png)
 
-![LED lamp schem](light/lamp schem.png)
+![LED lamp schem](light/lamp_schem.png)
 
 ## License
 
